@@ -1,5 +1,5 @@
 # Awesome ChatGPT
-[![Twitter](https://img.shields.io/twitter/url.svg?label=Follow%20%40humanloop&style=social&url=https%3A%2F%2Ftwitter.com-thejsondev)](https://twitter.com/thejsondev)
+[![Twitter](https://img.shields.io/twitter/url.svg?label=Follow%20%40thejsondev&style=social&url=https%3A%2F%2Ftwitter.com-thejsondev)](https://twitter.com/thejsondev)
 
 
 ![ChatGPT](/chatgpt-header.png)
